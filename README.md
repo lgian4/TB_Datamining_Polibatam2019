@@ -9,3 +9,6 @@ Nandika Permana S 3311911001 - https://github.com/nandikaps
 
 sumber data :
 https://www.kaggle.com/sjleshrac/airlines-customer-satisfaction
+
+link video presentasi :
+https://drive.google.com/file/d/1rno9wIYO7Gmgnx9zXKLb8_ZcDPnOcDzr/view?usp=sharing
